@@ -41,4 +41,3 @@ jobs:
       - run: mvn integration-test
 
       - run: bash <(curl -s https://codecov.io/bash)
-
